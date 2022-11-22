@@ -1,0 +1,48 @@
+.holicard {
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20210226/pngtree-holi-festival-background-colorful-festive-border-image_569818.jpg);
+    background-size: cover;
+    height: 30vh;
+}
+.headfirst {
+    color:#cc0220;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 45px;
+    font-style: oblique;
+    padding-top: 120px;
+}
+.holicardbottom {
+    background-color: lightgoldenrodyellow;
+    height: 80vh;
+}
+.imageres {
+    height: 90px;
+    width: 110px;
+}
+.Holicard {
+    background-color: #fa715f;
+    width: 150px;
+    border-radius: 15px;
+    padding: 5px;
+    height: 145px;
+    margin: 10px;
+    margin-top: 20px;
+    text-align: center;
+}
+.holiheading {
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
+.holipara {
+    font-weight: bold;
+}
+.center {
+    text-align: center;
+}
+.Holicard:hover {
+    transform: scale(1.08);
+}
+.center:hover {
+    transform: scale(1.09);
+}
+
